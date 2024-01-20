@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there, I'm Tsvetelina 👋
 
-<!--
-**TsvetelinaAleksandrova/TsvetelinaAleksandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Python in SoftUni
+- ⚡ Fun fact: I love traveling, books and dogs
 
-Here are some ideas to get you started:
+Languages and Tools I know:
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5
+
+CSS3
+
+Django
+
+PyCharm
+
+Visual Studio Code
+
+PostgreSQL
+
+
