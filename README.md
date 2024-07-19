@@ -1,7 +1,7 @@
 # Hi there, I'm Tsvetelina 👋
 
 - 🌱 I’m currently learning **Python** in SoftUni
-- ⚡ Fun fact: I love traveling, books and dogs
+- ⚡ I love traveling, books and dogs
 
 ### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
 
